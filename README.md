@@ -43,9 +43,8 @@ I am a passionate Full Stack Developer with a strong interest in building modern
 
 ## 🚀 Projects
 
-<p align="center">
   <a href="https://my-portfolioupdate.netlify.app" target="_blank" style="text-decoration: none;">
-    <kbd style="padding: 20px 40px; border-radius: 10px; background-color:#61dafb; color:#000; font-size:16px;">
+    <kbd style="padding: 20px 40px; border-radius: 10px; background-color:red; color:#000; font-size:16px;">
       🌐 Portfolio Website
     </kbd>
   </a>

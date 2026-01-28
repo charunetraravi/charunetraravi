@@ -1,16 +1,8 @@
 
-<h1 align="center"<img width="1024" height="1024" alt="banner" src="https://github.com/user-attachments/assets/8f17e334-ec7b-41fc-94ad-dc5147bac0ff" />
->Hi 👋, I'm Charunetra Ravi</h1>
-<h3 align="center">Full Stack Developer | Web Developer</h3>
-
-<p align="center">
-  🚀 Building modern & scalable web applications <br/>
-  💻 Frontend + Backend Developer <br/>
-  🌱 Always learning and improving
+  <p align="center">
+   <img width="1024" height="1024" alt="banner" src="https://github.com/user-attachments/assets/45108d08-d5f8-4c0e-9d9d-221bb04abdf0" />
 </p>
-
----
-
+--
 ## 👨‍💻 About Me
 
 I am a passionate Full Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications. I am currently learning and working with the MERN Stack and System Design, focusing on writing clean, efficient, and maintainable code. I enjoy solving real-world problems through technology and building applications that deliver real value to users. Debugging and problem-solving are my favorite parts of development, as they help me continuously learn and grow as a developer.

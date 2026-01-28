@@ -1,8 +1,8 @@
 
   <p align="center">
-   <img width="1024" height="1024" alt="banner" src="https://github.com/user-attachments/assets/45108d08-d5f8-4c0e-9d9d-221bb04abdf0" />
+  <img width="906" height="453" alt="banner" src="https://github.com/user-attachments/assets/9aab8336-80b2-4ada-ba3c-b579b612d479" />
 </p>
---
+
 ## 👨‍💻 About Me
 
 I am a passionate Full Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications. I am currently learning and working with the MERN Stack and System Design, focusing on writing clean, efficient, and maintainable code. I enjoy solving real-world problems through technology and building applications that deliver real value to users. Debugging and problem-solving are my favorite parts of development, as they help me continuously learn and grow as a developer.

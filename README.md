@@ -49,18 +49,6 @@ I am a passionate Full Stack Developer with a strong interest in building modern
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charunetraravi&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charunetraravi&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/charunetra-r-55a1a7283  

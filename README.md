@@ -43,10 +43,7 @@ I am a passionate Full Stack Developer with a strong interest in building modern
 
 ## 🚀 Projects
 
-- 🌐 Portfolio Website – Personal full-stack portfolio  
-- 📝 Todo App – MERN-based CRUD application  
-- 🤖 AI Assistant Web App – AI-powered Q&A system  
-- 📊 Data Dashboard – Analytics & visualization  
+- 🌐 [Portfolio Website](https://my-portfolioupdate.netlify.app) – Personal full-stack portfolio  
 
 ---
 

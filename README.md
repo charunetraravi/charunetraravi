@@ -2,6 +2,7 @@
   <p align="center">
   <img width="906" height="453" alt="banner" src="https://github.com/user-attachments/assets/9aab8336-80b2-4ada-ba3c-b579b612d479" />
 </p>
+---
 
 ## 👨‍💻 About Me
 
@@ -46,6 +47,18 @@ I am a passionate Full Stack Developer with a strong interest in building modern
 - 📝 Todo App – MERN-based CRUD application  
 - 🤖 AI Assistant Web App – AI-powered Q&A system  
 - 📊 Data Dashboard – Analytics & visualization  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charunetraravi&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charunetraravi&layout=compact&theme=radical"/>
+</p>
 
 ---
 

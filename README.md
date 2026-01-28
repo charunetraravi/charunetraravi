@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Charunetra Ravi</h1>
+<h1 align="center"<img width="1024" height="1024" alt="banner" src="https://github.com/user-attachments/assets/8f17e334-ec7b-41fc-94ad-dc5147bac0ff" />
+>Hi 👋, I'm Charunetra Ravi</h1>
 <h3 align="center">Full Stack Developer | Web Developer</h3>
 
 <p align="center">

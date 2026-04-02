@@ -8,7 +8,7 @@
 
 I am a passionate Full Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications.
 
-I am currently learning and working with the MERN Stack and System Design, focusing on writing clean, efficient, and maintainable code.
+I am currently learning and working with the **MERN Stack** and **System Design**, focusing on writing clean, efficient, and maintainable code.
 
 I enjoy solving real-world problems through technology and building applications that deliver real value to users.
 
@@ -56,9 +56,9 @@ https://my-portfolioupdate.netlify.app
 ---
 
 ### 🧠 ML-Based ASD Detection
-A Machine Learning-based web application for early Autism Spectrum Disorder (ASD) detection.
+A Machine Learning-based web application for early Autism Spectrum Disorder (ASD) detection using predictive analysis and user input data.
 
-**Tech Used:** Python, Streamlit, Machine Learning, Pandas, Scikit-learn  
+**Tech Used:** Python, Machine Learning, Streamlit, Pandas, Scikit-learn  
 
 🔗 **Live Demo:**  
 https://ml-based-asd-detection.streamlit.app/
@@ -85,4 +85,4 @@ https://ml-based-asd-detection.streamlit.app/
 
 ---
 
-⭐ If you like my work, consider starring ⭐ my repositories!
+⭐ If you like my work, consider starring my repositories!

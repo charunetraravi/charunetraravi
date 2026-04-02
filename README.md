@@ -6,11 +6,9 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications.
+I am a passionate Full Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications. I am currently learning and working with the MERN Stack and System Design, focusing on writing clean, efficient, and maintainable code.
 
-I am currently learning and working with the **MERN Stack** and **System Design**, focusing on writing clean, efficient, and maintainable code.
-
-I enjoy solving real-world problems through technology and building applications that deliver real value to users.
+I enjoy solving real-world problems through technology and building applications that deliver real value to users. Debugging and problem-solving are my favorite parts of development, as they help me continuously learn and grow as a developer.
 
 ---
 
@@ -68,11 +66,19 @@ https://ml-based-asd-detection.streamlit.app/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=charunetraravi&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charunetraravi&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charunetraravi&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=charunetraravi&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -85,4 +91,4 @@ https://ml-based-asd-detection.streamlit.app/
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+⭐ If you like my work, consider starring ⭐ my repositories!

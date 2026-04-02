@@ -2,8 +2,6 @@
   <img width="906" height="453" alt="banner" src="https://github.com/user-attachments/assets/9aab8336-80b2-4ada-ba3c-b579b612d479" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 I am a passionate Full Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications.  

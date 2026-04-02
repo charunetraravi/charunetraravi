@@ -6,9 +6,21 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications. I am currently learning and working with the MERN Stack and System Design, focusing on writing clean, efficient, and maintainable code.
+I am a passionate Full Stack Developer with a strong interest in building modern, scalable, and user-friendly web applications.  
+I am currently learning and working with the **MERN Stack** and **System Design**, focusing on writing clean, efficient, and maintainable code.
 
-I enjoy solving real-world problems through technology and building applications that deliver real value to users. Debugging and problem-solving are my favorite parts of development, as they help me continuously learn and grow as a developer.
+I enjoy solving real-world problems through technology and building applications that deliver real value to users.  
+Debugging and problem-solving are my favorite parts of development, as they help me continuously learn and grow as a developer.
+
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ Advanced React & Performance Optimization  
+- 🟢 Node.js Backend Architecture  
+- 🏗️ System Design & Scalability  
+- 🤖 Machine Learning Model Deployment  
+- ☁️ Cloud & Deployment (Netlify, Render, Streamlit)
 
 ---
 
@@ -60,6 +72,28 @@ A Machine Learning-based web application for early Autism Spectrum Disorder (ASD
 
 🔗 **Live Demo:**  
 https://ml-based-asd-detection.streamlit.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=charunetraravi&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charunetraravi&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🎯 Goals for 2026
+
+- 🚀 Become a strong Full Stack Developer  
+- 🧠 Master System Design  
+- 🤖 Build more AI/ML projects  
+- 💼 Land a top software developer role  
+- 🌍 Contribute to open-source projects  
 
 ---
 

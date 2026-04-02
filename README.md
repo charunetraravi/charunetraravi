@@ -85,39 +85,6 @@ Python, Machine Learning, Streamlit, Pandas, Scikit-learn
 https://ml-based-asd-detection.streamlit.app/
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=charunetraravi&show_icons=true&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=charunetraravi&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charunetraravi&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=charunetraravi&theme=radical&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
 💼 LinkedIn

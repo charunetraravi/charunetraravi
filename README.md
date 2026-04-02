@@ -1,7 +1,7 @@
-
-  <p align="center">
+<p align="center">
   <img width="906" height="453" alt="banner" src="https://github.com/user-attachments/assets/9aab8336-80b2-4ada-ba3c-b579b612d479" />
 </p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -43,13 +43,21 @@ I am a passionate Full Stack Developer with a strong interest in building modern
 
 ## 🚀 Projects
 
-  <a href="https://my-portfolioupdate.netlify.app" target="_blank" style="text-decoration: none;">
-    <kbd style="padding: 20px 40px; border-radius: 10px; background-color:red; color:#000; font-size:16px;">
-      🌐 Portfolio Website
-    </kbd>
-  </a>
-</p>
+### 🌐 Portfolio Website
+A personal portfolio website showcasing my skills, projects, and development journey as a Full Stack Developer.  
 
+🔗 **Live Demo:**  
+https://my-portfolioupdate.netlify.app  
+
+---
+
+### 🧠 ML-Based ASD Detection
+A Machine Learning-based web application for early Autism Spectrum Disorder (ASD) detection using predictive analysis and user input data.
+
+**Tech Used:** Python, Machine Learning, Streamlit, Pandas, Scikit-learn  
+
+🔗 **Live Demo:**  
+https://ml-based-asd-detection.streamlit.app/
 
 ---
 

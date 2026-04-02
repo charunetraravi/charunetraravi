@@ -80,11 +80,6 @@ https://ml-based-asd-detection.streamlit.app/
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=charunetraravi&theme=radical" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charunetraravi&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 🎯 Goals for 2026
